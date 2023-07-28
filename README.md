@@ -1,1 +1,1 @@
-# McdonaldSales
+# Mcdonald-Sales
